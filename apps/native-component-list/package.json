@@ -172,11 +172,11 @@
     "three": "^0.115.0",
     "unimodules-test-core": "^0.4.1",
     "url": "^0.11.0",
-    "uuid": "^8.3.0",
+    "uuid": "^14.0.3",
     "victory-native": "^30.4.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
+    "@babel/core": "^8.0.7",
     "@types/i18n-js": "^3.0.1",
     "@types/pixi.js": "^4.8.6",
     "@types/react": "~17.0.21",
